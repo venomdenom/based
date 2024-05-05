@@ -1,5 +1,5 @@
 # Based ML models
-written from scratch(some are even without numpy)
+Written from scratch(some are even without numpy)
 
 ## About
 Implenemtation of some basic ML algorithms with some other stuff, like hyperparams search, model tests. 
